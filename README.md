@@ -15,8 +15,5 @@ The project aims to perform the following tasks:
 
 ## Architecture
 ![ETL Pipeline Architecture](assets/architecture.png)
-
-<p align="center">
-  <img src="assets/flowchart part 01.png" alt="Flowchart" width="49%">
-  <img src="assets/flowchart part 02" alt="Second Image" width="49%">
-</p>
+![ETL Pipeline Architecture](assets/flowchart part 01.png)
+![ETL Pipeline Architecture](assets/flowchart part 02.png)
